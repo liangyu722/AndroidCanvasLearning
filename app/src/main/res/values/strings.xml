@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CanvasDrawing</string>
+    <string name="canvasContentDescription">Mini Paint is a simple line drawing tool</string>
+</resources>
